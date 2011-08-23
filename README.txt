@@ -9,5 +9,3 @@ I found a C++ program called AllToAvi http://alltoavi.sourceforge.net but it's L
 Once I had finished making a fully working perl version I started working on adding more and more features and making it more robust. At one point I even managed to end up forking my own project.
 
 I have NOT worked on this since 2007. It's good code and likely still works but I can't even tell you which version runs best at this point. The 4.9.5 is preset based while 4.8.5 asks you for everything.
-
-I also included the old AlltoAvi C++ files that I based this from. They are not written by me.
